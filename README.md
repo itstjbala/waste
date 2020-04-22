@@ -1,2 +1,2 @@
 # waste
-test repo
+test repo for testing purpose
